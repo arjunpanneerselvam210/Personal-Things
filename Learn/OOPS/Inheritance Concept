@@ -1,0 +1,65 @@
+Inheritance:
+	Inheritance is an important pillar of OOP. It is the mechanism in java by which one class is allowed to inherit the features.
+	In Java, Inheritance means creating a new classes based on existing ones. A class that inherits from another class can reuse the methods and fields of that classes. You can add new fields methods to current class as well as.
+	
+Syntax: 
+class ChildClass extends ParentClass{
+
+}
+Example : 
+class Student extends Person{
+
+}
+
+Types of Inheritance:
+	1.Single Inheritance
+	2.Multiple Inheritance
+	3.Multilevel Inheritance
+	4.Hierarchical Inheritance
+	5.Hybrid Inheritance
+	
+Single Inheritance:
+	Single Inheritance, SubClass inherit  the features of one super class, Class A serves as a base for the derived class B.
+	Person
+	   |
+	Student
+	(Person Properties)
+	->name
+	->age
+	(student Properties)
+	->rollNumber
+
+Multiple Inheritance :
+	Multiple Inheritance, one class can have more than one superClass and inherits features from all parent classes.
+	Example :
+		Father   	Mother
+		   |              |
+		       |      |
+		         Child
+
+Multilevel Inheritance:
+	Multilevel Inheritance, A derived Class will be inheriting a base class and as well as the derived class also the base class for the other classes
+		Example : 
+		GrandFather
+		     |
+		   Father
+		     |
+		    Son
+
+Hierarchical Inheritance :
+	In Hierarchical Inheritance , One class serves as a superclass(Base Class) for more than one subclass.
+	Example:
+		Person
+	     |	         |
+	 Student      Teacher
+	 
+	Person Properties : name, age
+	Student : rollNumber
+	Teacher : salary
+
+Hybrid Inheritance : 
+	It is a mixed of two or more of the above types of inheritance.
+	Java doesn't support multiple inheritance with classes, hybrid inheritance involving multiple inheritance
+also not possible with classes.
+	We can achieve hybrid inheritance only through interface.
+	

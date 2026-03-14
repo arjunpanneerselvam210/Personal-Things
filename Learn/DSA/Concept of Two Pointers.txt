@@ -1,0 +1,72 @@
+Two Pointers :
+	Two pointers is a technique used to solve problems in Linear running Time.
+	In this Technique, you will use two pointers to approach the problem
+	
+	Types of Pointer technique:
+		1.Left-Right Pointers or (Start-End ,Low-High)				---->First(Take One Day)
+		2.Fast-Slow Pointers							---->Second(One Day)
+		3.More than Two Pointers						---->Third(One Day)
+	Note:The More than Two Pointers can be approached by using the same kind of approach that you use in the two pointers 
+	
+	
+	
+	
+	Must Read :
+		There above contents are Made on my own. So, It may have some Grammatical mistakes So kindly Use AI to know about it completely.
+		It is just a SheetSheet for you people so Dont fully Depend on it.
+		Use the Template for solving problems and the template may have to be modified for some problems to achieve the Exact Output So understand the problem Completely and use it accordingly.
+		Below I have given Some of the Problem for you to practice this technique so kindly use it.
+		
+		
+		
+		Best Practice Order (Recommended)
+			follow this order to master two pointers:
+			Step 1 - Reverse String, Valid Palindrome, Move Zeroes.
+			Step 2 - Two Sum II, Remove Duplicates, Squares of Sorted Array.
+			Step 3 - Container With Most Water, 3Sum, Sort Colors.
+			Step 4 - Trapping Rain Water, Minimum Window Substring
+		
+1. LeetCode Two Pointer Problems
+Easy
+
+Problem	Concept
+Two Sum II – Input Array Is Sorted	
+Valid Palindrome	
+Merge Sorted Array	
+Remove Duplicates from Sorted Array	
+Remove Element	
+Squares of a Sorted Array	
+Reverse String	
+Move Zeroes	
+
+Medium
+Problem	Concept
+3Sum	Two pointers + sorting
+Container With Most Water	
+3Sum Closest	Two pointer
+Sort Colors 
+Partition Labels	
+
+2. GeeksforGeeks Two Pointer Problems
+
+Easy
+
+Pair with given sum in sorted array
+Remove duplicates from sorted array
+Move all zeroes to end
+Reverse array
+Check palindrome string
+
+Medium
+
+Count pairs with given sum
+Triplet sum in array
+Find pair with difference
+Trapping rain water
+Segregate 0s and 1s
+
+Hard
+
+Smallest window containing all characters
+Minimum swaps to group elements
+Count distinct elements in window

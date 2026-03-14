@@ -1,0 +1,97 @@
+1. LeetCode Two Pointer Problems
+Easy
+
+Problem	Concept
+Two Sum II – Input Array Is Sorted	
+Valid Palindrome	
+Merge Sorted Array	
+Remove Duplicates from Sorted Array	
+Remove Element	
+Squares of a Sorted Array	
+Reverse String	
+Move Zeroes	
+
+Medium
+Problem	Concept
+3Sum	Two pointers + sorting
+Container With Most Water	
+3Sum Closest	Two pointer
+Sort Colors 
+Partition Labels	
+
+2. GeeksforGeeks Two Pointer Problems
+
+Easy
+
+Pair with given sum in sorted array
+Remove duplicates from sorted array
+Move all zeroes to end
+Reverse array
+Check palindrome string
+
+Medium
+
+Count pairs with given sum
+Triplet sum in array
+Find pair with difference
+Trapping rain water
+Segregate 0s and 1s
+
+Hard
+
+Smallest window containing all characters
+Minimum swaps to group elements
+Count distinct elements in window
+
+3. CSES Two Pointer Problems
+
+CSES has a Sorting and Searching section where many problems use two pointers.
+
+
+Sum of Two Values	
+Sum of Three Values	
+Subarray Sums I	Sliding 
+Subarray Sums II	
+Playlist	
+Array Division	
+
+4. Codeforces Two Pointer Problems
+
+These are very popular two-pointer problems.
+
+Beginner
+Problem	CF ID
+Books	279B
+Segment with Small Sum	363B
+Approximating a Constant Range	602B
+Fence	363B
+
+Intermediate
+Problem	CF ID
+Sereja and Dima	381A
+Little Elephant and Array	220B
+Pashmak and Flowers	459B
+Vanya and Books	552B
+
+Advanced
+Problem	CF ID
+Interesting Subarray	1366E
+Divide and Summarize	1461D
+
+5. Classic Two Pointer Patterns
+
+You should practice these patterns repeatedly:
+
+Pattern	Example Problem
+Opposite pointer	Two Sum Sorted
+Slow-fast pointer	Remove duplicates
+Sliding window	Longest substring
+3 pointer	Dutch national flag
+Multi pointer	3Sum
+
+6. Best Practice Order (Recommended)
+follow this order to master two pointers:
+Step 1 - Reverse String, Valid Palindrome, Move Zeroes.
+Step 2 - Two Sum II, Remove Duplicates, Squares of Sorted Array.
+Step 3 - Container With Most Water, 3Sum, Sort Colors.
+Step 4 - Trapping Rain Water, Minimum Window Substring
